@@ -1,4 +1,4 @@
-### Hi there 👋
+### Ian Lam's GitHub
 
 <!--
 **lightbearer88/lightbearer88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Most of my repositories are private but I am working on making more public repositories! 
+I am currently learning Python and MySQL to add on to my knowledge of C++. 
